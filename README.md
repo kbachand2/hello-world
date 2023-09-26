@@ -1,5 +1,7 @@
 #My First Attempt At A ReadMe#
+
 **By Kyle Bachand**
+
 *Drafted 25 September 2023*
 
 ##What I'm Trying to Do##
@@ -7,7 +9,7 @@ In this ReadMe, I am trying to use a large portion of the basic syntax to approp
 
 1. Make myself more adept at drafting ReadMe files, which I've never done before
 2. Get more comfortable within the GitHub environment
-3. Because it's fun :joy:
+3. Because it's fun :smile:
 
 I plan on doing all of this within the GitHub environment located [Here](http://www.github.com)
 
