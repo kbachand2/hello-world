@@ -20,7 +20,7 @@ I will at some point also need to make changes using terminal. I plan on using t
 and 
 `git push`
 
-It is paramount that I am fully comfortable ==forking, cloning, pushing, creating branches, and deleting branches== within the terminal as well as on github (but mainly in terminal)
+It is paramount that I am fully comfortable ==forking== ==cloning pushing creating branches and deleting branches== within the terminal as well as on github (but mainly in terminal)
 
 I also need to remember that git can be described as the following:
 
